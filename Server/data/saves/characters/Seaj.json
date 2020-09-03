@@ -3,8 +3,8 @@
   "password": "11and5colts",
   "staff-rights": "DEVELOPER",
   "position": {
-    "x": 3091,
-    "y": 3502,
+    "x": 3094,
+    "y": 3510,
     "z": 0
   },
   "spell-book": "NORMAL",
@@ -29,7 +29,7 @@
   "prayerblock-timer": 0,
   "target-search-timer": 0,
   "special-attack-restore-timer": 0,
-  "skull-timer": -10191,
+  "skull-timer": -11636,
   "skull-type": "WHITE_SKULL",
   "total-kills": 0,
   "target-kills": 0,
@@ -133,44 +133,44 @@
       "amount": 1
     },
     {
-      "id": 2530,
+      "id": -1,
+      "amount": 0
+    },
+    {
+      "id": 526,
       "amount": 1
     },
     {
-      "id": 2530,
+      "id": 526,
       "amount": 1
     },
     {
-      "id": 2530,
+      "id": 526,
       "amount": 1
     },
     {
-      "id": 2530,
+      "id": 526,
       "amount": 1
     },
     {
-      "id": 2530,
-      "amount": 1
+      "id": -1,
+      "amount": 0
     },
     {
-      "id": 2530,
-      "amount": 1
+      "id": -1,
+      "amount": 0
     },
     {
-      "id": 2530,
-      "amount": 1
+      "id": -1,
+      "amount": 0
     },
     {
-      "id": 2530,
-      "amount": 1
+      "id": -1,
+      "amount": 0
     },
     {
-      "id": 2530,
-      "amount": 1
-    },
-    {
-      "id": 2530,
-      "amount": 1
+      "id": -1,
+      "amount": 0
     },
     {
       "id": -1,
@@ -307,7 +307,7 @@
       13034431,
       13034431,
       13034431,
-      13034431,
+      13034528,
       13034431,
       13034431,
       13034456,

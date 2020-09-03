@@ -6704,8 +6704,8 @@ public class Client extends GameApplet {
 			int key = readChar(-796);
 			if (key == -1 || key == 96)
 				break;
-			System.out.println(key);
-			if(key == 47 || key == 126) {
+			//System.out.println(key);
+			if(key == 47 || key == 126) { //Changed to ~ and numlock / to open/close console
 				if(myPrivilege >= 1 && myPrivilege <= 4) {
 					consoleOpen = !consoleOpen;
 				}
@@ -6725,7 +6725,7 @@ public class Client extends GameApplet {
 					consoleInput = "";
 					updateChatbox = true;
 				}
-				if(key == 10 && consoleInput.length() < 1) {
+				if(key == 10 && consoleInput.length() < 1) { //Closes console if you hit enter on empty line
 					consoleOpen = !consoleOpen;
 				}
 				return;

@@ -130,7 +130,7 @@ public class TeleportsInterface {
 		if(tab != null) {
 			
 			//Only wildy/bosses
-			if(tab != InterfaceData.WILDERNESS && tab != InterfaceData.BOSSES) {
+			if(tab != InterfaceData.WILDERNESS && tab != InterfaceData.BOSSES && tab != InterfaceData.MONSTERS) {
 				player.getPacketSender().sendMessage("This tab is currently disabled.");
 				return true;
 			}
