@@ -3,8 +3,8 @@
   "password": "11and5colts",
   "staff-rights": "DEVELOPER",
   "position": {
-    "x": 3094,
-    "y": 3510,
+    "x": 3093,
+    "y": 3509,
     "z": 0
   },
   "spell-book": "NORMAL",
@@ -29,7 +29,7 @@
   "prayerblock-timer": 0,
   "target-search-timer": 0,
   "special-attack-restore-timer": 0,
-  "skull-timer": -11636,
+  "skull-timer": -12621,
   "skull-type": "WHITE_SKULL",
   "total-kills": 0,
   "target-kills": 0,
@@ -78,19 +78,19 @@
     },
     {
       "id": 554,
-      "amount": 1000
+      "amount": 993
     },
     {
       "id": 555,
-      "amount": 1000
+      "amount": 995
     },
     {
       "id": 556,
-      "amount": 1000
+      "amount": 995
     },
     {
       "id": 557,
-      "amount": 1000
+      "amount": 995
     },
     {
       "id": 558,
@@ -102,19 +102,19 @@
     },
     {
       "id": 560,
-      "amount": 1000
+      "amount": 999
     },
     {
       "id": 561,
-      "amount": 1000
+      "amount": 996
     },
     {
       "id": 562,
-      "amount": 1000
+      "amount": 999
     },
     {
       "id": 563,
-      "amount": 1000
+      "amount": 999
     },
     {
       "id": 564,
@@ -122,7 +122,7 @@
     },
     {
       "id": 565,
-      "amount": 1000
+      "amount": 999
     },
     {
       "id": 9075,
@@ -133,11 +133,7 @@
       "amount": 1
     },
     {
-      "id": -1,
-      "amount": 0
-    },
-    {
-      "id": 526,
+      "id": 257,
       "amount": 1
     },
     {
@@ -153,12 +149,16 @@
       "amount": 1
     },
     {
-      "id": -1,
-      "amount": 0
+      "id": 526,
+      "amount": 1
     },
     {
-      "id": -1,
-      "amount": 0
+      "id": 313,
+      "amount": 1
+    },
+    {
+      "id": 526,
+      "amount": 1
     },
     {
       "id": -1,
@@ -305,10 +305,10 @@
       13034431,
       13034431,
       13034431,
-      13034431,
+      13034485,
       13034431,
       13034528,
-      13034431,
+      13034659,
       13034431,
       13034456,
       13034431,
@@ -317,7 +317,7 @@
       13034431,
       13034431,
       13034431,
-      13034431,
+      13034438,
       13034431,
       13034431,
       13034431,
