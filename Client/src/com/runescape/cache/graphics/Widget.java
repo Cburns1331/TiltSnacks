@@ -1189,8 +1189,8 @@ public final class Widget {
 		scroll.scrollMax = 400;
 
 		//Add all monsters into the scroll..
-		String[] tooltips = {"Teleport: Rock Crabs", "Teleport: Pack Yaks", "Teleport: Experiments", "Teleport: Zombies", "Teleport: Bandits", "Teleport: Rock Crab", "Teleport: Rock Crab", "Teleport: Rock Crab", "Teleport: Rock Crab"};
-		int[] sprites = {178, 179, 178, 179, 178, 179, 178, 179, 178, 179, 178, 179, 178, 179, 178, 179, 178, 179};
+		String[] tooltips = {"Teleport: Rock Crabs", "Teleport: Pack Yaks", "Teleport: Experiments"};
+		int[] sprites = {487, 488, 489, 490, 491, 492};
 		int sprite_w = 65;
 		int sprite_h = 54;
 		int index = 0;

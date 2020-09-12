@@ -3,7 +3,7 @@
   "password": "11and5colts",
   "staff-rights": "DEVELOPER",
   "position": {
-    "x": 3093,
+    "x": 3096,
     "y": 3509,
     "z": 0
   },
@@ -27,9 +27,9 @@
   "fire-immunity": 0,
   "teleblock-timer": 0,
   "prayerblock-timer": 0,
-  "target-search-timer": 0,
+  "target-search-timer": 56,
   "special-attack-restore-timer": 0,
-  "skull-timer": -12621,
+  "skull-timer": -18556,
   "skull-type": "WHITE_SKULL",
   "total-kills": 0,
   "target-kills": 0,
@@ -304,8 +304,8 @@
     "experience": [
       13034431,
       13034431,
-      13034431,
-      13034485,
+      13034779,
+      13034725,
       13034431,
       13034528,
       13034659,

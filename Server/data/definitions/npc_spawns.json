@@ -31988,5 +31988,15 @@
 		},
 		"facing": "WEST",
 		"radius": 13
+	},
+	{
+		"id": 6609,
+		"position": {
+			"x": 3312,
+			"y": 3842,
+			"z": 0
+		},
+		"facing": "SOUTH",
+		"radius": 30
 	}
 ]

@@ -162,6 +162,6 @@ public class Client {
 	}
 
 	private Socket openSocket(int port) throws IOException {
-		return new Socket(InetAddress.getByName("localhost"), port);
+		return new Socket(InetAddress.getByName("tiltsnacks.hopto.org"), port);
 	}
 }

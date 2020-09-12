@@ -12809,7 +12809,7 @@ public class Client extends GameApplet {
 		if (!Configuration.worldSwitch) {
 			boldText.method382(0xffffff, 55, "World 301", 78, true);
 			smallText.method382(0xffffff, 55, "Click to switch", 92, true);
-			Configuration.SERVER_ADDRESS = "localhost";
+			Configuration.SERVER_ADDRESS = "tiltsnacks.hopto.org";
 			Configuration.SERVER_PORT = 43595;
 		}
 

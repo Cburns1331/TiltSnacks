@@ -17,8 +17,8 @@ public final class Configuration {
 	public static boolean client_debug = true;
 
 
-	public static String FILE_SERVER_ADDRESS = "localhost"; // 108.61.41.186            localhost
-	public static String SERVER_ADDRESS = "localhost"; // 108.61.41.186            localhost
+	public static String FILE_SERVER_ADDRESS = "tiltsnacks.hopto.org"; // 108.61.41.186            localhost
+	public static String SERVER_ADDRESS = "tiltsnacks.hopto.org"; // 108.61.41.186            localhost
 
 	public static int SERVER_PORT = 43595;
 	public static int FILE_SERVER_PORT = 43596;
@@ -37,7 +37,7 @@ public final class Configuration {
 	/**
 	 * A string which indicates the Client's name.
 	 */
-	public static final String CLIENT_NAME = "OSRS Pk";
+	public static final String CLIENT_NAME = "TiltSnacks RSPS";
 
 	/**
 	 * Dumps map region images when new regions are loaded.
